@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a ICT student in Ferraris-Pancaldo (Italy, Savona-SV)
+I'm a software Developer
 
 
 ## 🌐 Socials:
